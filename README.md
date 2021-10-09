@@ -1,2 +1,2 @@
 # AdaPies
-Let's have fun!(d) with AdaPies!
+Let's have fun with AdaPies!
