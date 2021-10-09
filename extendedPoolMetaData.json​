@@ -4,13 +4,13 @@
         "url_png_logo": "https://mysite.com/images/sun.jpg",
         "location": "cyber_place, cyber_world",
         "social": {
-            "twitter_handle": "OTG_WCat",
-            "telegram_handle": "DougD",
-            "discord_handle": "AdaPies#",
-            "github_handle": "DougD"
+            "twitter_handle": "",
+            "telegram_handle": "Doug Do",
+            "discord_handle": "",
+            "github_handle": "DougDo"
         },
         "about": {
-            "me": "https://ada-pi.gitbook.io/raspi-spo/intermediate-guide/pi-pool-tutorial",
+            "me": "Just love pies",
             "server": "All pies sweet and savoury",
             "company": "🌟 AdaPies ⚡"
         },
